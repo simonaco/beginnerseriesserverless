@@ -1,0 +1,14 @@
+{
+  "name": "first-serverless-api",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "func start",
+    "test": "echo \"No tests yet...\""
+  },
+  "dependencies": {
+    "date-fns": "^2.19.0",
+    "mongodb": "^3.6.5"
+  },
+  "devDependencies": {}
+}
